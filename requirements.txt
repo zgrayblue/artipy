@@ -9,3 +9,4 @@ xmltodict==0.13.0
 pymongo==4.6.0
 dash==2.14.1
 dash-bootstrap-components==1.5.0
+markdownify==0.11.6
